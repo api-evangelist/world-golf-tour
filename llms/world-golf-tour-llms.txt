@@ -1,0 +1,20 @@
+# World Golf Tour
+
+> World Golf Tour (WGT Golf), operated by World Golf Tour, LLC out of San Francisco, is a free-to-play online golf simulation launched in 2008 that recreates more than twenty real championship courses using photorealistic imagery, played by over 15 million players on web, iOS, and Android. A Battery Ventures portfolio company; it publishes no public developer API surface.
+
+## Company
+
+- [Website](https://www.wgt.com/): WGT Golf — free online golf game
+- [About](https://www.wgt.com/about/): Company and product background
+- [Help / FAQ](https://www.wgt.com/help/): Player support
+- [News](https://www.wgt.com/news/): Events, promos, and game updates
+- [Careers](https://www.wgt.com/careers/): Game jobs at World Golf Tour
+
+## Legal
+
+- [Terms & Conditions](https://www.wgt.com/terms/)
+- [Privacy Policy](https://www.wgt.com/privacy/)
+
+## APIs
+
+No public developer APIs, SDKs, or API documentation are published by World Golf Tour as of 2026-07-21.

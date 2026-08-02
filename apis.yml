@@ -1,9 +1,25 @@
 aid: world-golf-tour
 name: World Golf Tour
-description: World Golf Tour is a company surfaced as a portfolio company of battery-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: World Golf Tour (WGT Golf), operated by World Golf Tour, LLC out of San
+  Francisco, is a free-to-play online golf simulation launched in 2008 that recreates
+  more than twenty real championship courses like Pebble Beach, St Andrews, and Bethpage
+  Black using photorealistic imagery, played by over 15 million players on web, iOS,
+  and Android, with virtual equipment from Callaway, Titleist, and TaylorMade and
+  integrations with SkyTrak launch monitors. The company is a Battery Ventures portfolio
+  company and publishes no public developer API surface.
 url: https://raw.githubusercontent.com/api-evangelist/world-golf-tour/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://securewgt-a.akamaihd.net/assets/community/images/wgt/wgt_logo_share.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,12 +28,50 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Golf
+- Gaming
+- Sports
+- Simulation
+- Entertainment
+- Mobile
 apis: []
+common:
+- type: DomainSecurity
+  url: security/world-golf-tour-domain-security.yml
+- name: LLMs.txt
+  type: LLMsTxt
+  url: llms/world-golf-tour-llms.txt
+- name: Website
+  type: Website
+  url: https://www.wgt.com/
+- name: About
+  type: About
+  url: https://www.wgt.com/about/
+- name: Support
+  type: Support
+  url: https://www.wgt.com/help/
+- name: Blog
+  type: Blog
+  url: https://www.wgt.com/news/
+- name: Careers
+  type: Careers
+  url: https://www.wgt.com/careers/
+- name: Terms of Service
+  type: TermsOfService
+  url: https://www.wgt.com/terms/
+- name: Privacy Policy
+  type: PrivacyPolicy
+  url: https://www.wgt.com/privacy/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
