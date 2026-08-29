@@ -8,6 +8,17 @@ description: World Golf Tour (WGT Golf), operated by World Golf Tour, LLC out of
   integrations with SkyTrak launch monitors. The company is a Battery Ventures portfolio
   company and publishes no public developer API surface.
 url: https://raw.githubusercontent.com/api-evangelist/world-golf-tour/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
